@@ -1,16 +1,19 @@
-# color
+# Color_Pallete_flutter_app
 
-A new Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+   - This is a simple app for Color Pallete Genrator using different color and MVC pattern.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Main features are as follows:
+    - You can change any color which you want.
+    - Light and Dark Theme.
+    - You can also use multiple colors.
+   
+## App Gif:-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/121868551/235632672-7be3d800-71c3-4939-b458-b87f3790de81.mp4
+
+
